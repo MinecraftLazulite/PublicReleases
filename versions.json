@@ -5,8 +5,33 @@
     "name": "Lazuli"
   },
   "releasesRepo": "MinecraftLazulite/PublicReleases",
-  "generatedAt": "2026-09-05T22:13:16Z",
+  "generatedAt": "2026-09-09T21:15:44Z",
   "releases": [
+    {
+      "modVersion": "1.22.0.0",
+      "tag": "v1.22.0.0",
+      "releaseDate": "2026-09-09",
+      "artifacts": [
+        {
+          "minecraftVersion": "26.2",
+          "jarFileName": "fabric-26.2-1.22.0.0.jar",
+          "downloadUrl": "https://github.com/MinecraftLazulite/PublicReleases/releases/download/v1.22.0.0/fabric-26.2-1.22.0.0.jar",
+          "sha256": "a25acc472d3700e492b9dfead8a21d8338679f4eda3a8c6e8cce62577d8cded8"
+        },
+        {
+          "minecraftVersion": "26.1",
+          "jarFileName": "fabric-26.1-1.22.0.0.jar",
+          "downloadUrl": "https://github.com/MinecraftLazulite/PublicReleases/releases/download/v1.22.0.0/fabric-26.1-1.22.0.0.jar",
+          "sha256": "1387532890a55b72b1746a8f711aea35345110dd0e41c1f0935bc1aedb8b7559"
+        },
+        {
+          "minecraftVersion": "1.21.11",
+          "jarFileName": "fabric-1.21.11-1.22.0.0.jar",
+          "downloadUrl": "https://github.com/MinecraftLazulite/PublicReleases/releases/download/v1.22.0.0/fabric-1.21.11-1.22.0.0.jar",
+          "sha256": "6f85cbd338d6c65a6492fb7ee96be00938d3fc9ecf22c82180ffc8c816fbac61"
+        }
+      ]
+    },
     {
       "modVersion": "1.21.0.0",
       "tag": "v1.21.0.0",
